@@ -1,2 +1,2 @@
 # lexuschat
-A Rag Agent made using Langchain0
+A Rag Agent made using Langchain
